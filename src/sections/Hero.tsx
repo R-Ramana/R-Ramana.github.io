@@ -66,7 +66,7 @@ export const Hero = () => {
             I thrive on solving complex challenges, with a strong passion for IoT, AI, and a love for automating routine tasks.
           </p>
         </div>
-        <div>
+        {/* <div>
           <div className="relative flex flex-col md:flex-row justify-center items-center mt-8 gap-4 z-20">
             <div className="button-wrapper z-20 mt-12">
               <a href="/docs/RamanaCV.pdf" target="_blank">
@@ -81,7 +81,7 @@ export const Hero = () => {
               <div className="absolute h-12 w-[160px] rounded-xl bg-[#fbc7d4] -z-10 blur-md"></div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>  
     </section>
   );
